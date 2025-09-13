@@ -193,7 +193,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 **Mohamed DAOUD MOHAMED**
 - Email: mohameddaoudmed@gmail.com
 - LinkedIn: [Mohamed DAOUD](https://linkedin.com/in/mohamed-daoud)
-- GitHub: [mohamedchehem](https://github.com/mohamedchehem)
+
 
 ## 🤝 Contribution
 
