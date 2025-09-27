@@ -5,6 +5,7 @@ Portfolio personnel développé avec React, TypeScript et Tailwind CSS, incluant
 ## 🚀 Fonctionnalités
 
 ### Portfolio Principal
+
 - **Page d'accueil** avec présentation personnelle
 - **Expériences professionnelles** détaillées
 - **Formations académiques** avec timeline
@@ -15,6 +16,7 @@ Portfolio personnel développé avec React, TypeScript et Tailwind CSS, incluant
 - **Design responsive** et moderne
 
 ### Plateforme E-Commerce (Projet Démo)
+
 - **Catalogue de produits** avec 8 produits Apple
 - **Système de recherche** et filtres avancés
 - **Panier d'achat** avec gestion des quantités
@@ -27,6 +29,7 @@ Portfolio personnel développé avec React, TypeScript et Tailwind CSS, incluant
 ## 🛠️ Technologies Utilisées
 
 ### Frontend
+
 - **React 18** avec TypeScript
 - **Tailwind CSS** pour le styling
 - **Lucide React** pour les icônes
@@ -34,6 +37,7 @@ Portfolio personnel développé avec React, TypeScript et Tailwind CSS, incluant
 - **ESLint** pour la qualité du code
 
 ### E-Commerce
+
 - **React Hooks** pour la gestion d'état
 - **LocalStorage** pour la persistance
 - **Stripe** (intégration simulée)
@@ -74,15 +78,18 @@ npm run lint
 ## 📱 Sections du Portfolio
 
 ### 1. Accueil
+
 - Présentation avec photo
 - Technologies maîtrisées
 - Boutons d'action vers projets et contact
 
 ### 2. Expériences
+
 - **Al-Gamil** (04/2021 - 07/2021) - Développeur Web
 - **Wilo-Technologie** (11/2020 - 02/2021) - Développeur Web
 
 ### 3. Projets
+
 - **E-Commerce Platform** (Démo interactive)
 - **Task Management App**
 - **Restaurant Mobile App**
@@ -91,10 +98,12 @@ npm run lint
 - **Social Media Dashboard**
 
 ### 4. Formations
+
 - **Master 1 Informatique** - Université Sorbonne Paris Nord (2024-2025)
 - **Licence Informatique** - Université de Djibouti (2020-2021)
 
 ### 5. Compétences
+
 - **Programmation** : Java, Python, C#
 - **Web** : HTML, CSS, JavaScript, React, Node.js
 - **Bases de données** : SQL, MySQL, NoSQL
@@ -103,6 +112,7 @@ npm run lint
 - **Mobile & AR/VR**
 
 ### 6. Contact
+
 - **Email** : mohameddaoudmed@gmail.com
 - **Téléphone** : +33 07 49 09 22 19
 - **Adresse** : 38 Rue du chemins, 93240 STAINS
@@ -111,6 +121,7 @@ npm run lint
 ## 🛒 Plateforme E-Commerce
 
 ### Fonctionnalités Principales
+
 - **Catalogue produits** avec images HD
 - **Système de favoris** avec animations
 - **Panier intelligent** avec calcul automatique
@@ -119,6 +130,7 @@ npm run lint
 - **Interface responsive** et moderne
 
 ### Produits Disponibles
+
 1. MacBook Pro 16" M3 Max
 2. iPhone 15 Pro Max
 3. AirPods Pro (2ème génération)
@@ -129,6 +141,7 @@ npm run lint
 8. HomePod (2ème génération)
 
 ### Technologies E-Commerce
+
 - **React** pour l'interface utilisateur
 - **TypeScript** pour la sécurité des types
 - **Tailwind CSS** pour le design
@@ -138,11 +151,13 @@ npm run lint
 ## 🎨 Design & UX
 
 ### Palette de Couleurs
+
 - **Primaire** : Dégradés orange/rouge/rose
 - **Secondaire** : Transparences et glassmorphism
 - **Accents** : Couleurs vives pour les actions
 
 ### Animations
+
 - **Hover effects** sur tous les éléments interactifs
 - **Transitions fluides** entre les sections
 - **Micro-interactions** pour l'engagement utilisateur
@@ -172,6 +187,7 @@ src/
 ## 🚀 Déploiement
 
 Le projet peut être déployé sur :
+
 - **Vercel** (recommandé pour React)
 - **Netlify**
 - **GitHub Pages**
@@ -191,13 +207,15 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 ## 👨‍💻 Auteur
 
 **Mohamed DAOUD MOHAMED**
+
 - Email: mohameddaoudmed@gmail.com
 - LinkedIn: [Mohamed DAOUD](https://linkedin.com/in/mohamed-daoud)
-- GitHub: [mohamedchehem](https://github.com/mohamedchehem)
+- GitHub: [mohamed DAOUD](https://github.com/ESIC775)
 
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à :
+
 1. Fork le projet
 2. Créer une branche pour votre fonctionnalité
 3. Commit vos changements
