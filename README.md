@@ -210,7 +210,11 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 - Email: mohameddaoudmed@gmail.com
 - LinkedIn: [Mohamed DAOUD](https://linkedin.com/in/mohamed-daoud)
+<<<<<<< HEAD
 - GitHub: [mohamed DAOUD](https://github.com/ESIC775)
+=======
+
+>>>>>>> 74565a0d90cde3ef860a3fd7fa330719409b4b86
 
 ## 🤝 Contribution
 
