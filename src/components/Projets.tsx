@@ -34,7 +34,7 @@ const Projets = ({ onProjectSelect }: ProjetsProps) => {
       image:
         "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800",
       demoUrl: "ecommerce-demo",
-      githubUrl: "https://github.com/ESIC775/ecommerce-platform",
+      githubUrl: "https://github.com/ESIC775/portfolio-website",
       icon: Globe,
       color: "from-blue-500 to-purple-600",
       isDemo: true,
@@ -47,7 +47,7 @@ const Projets = ({ onProjectSelect }: ProjetsProps) => {
       image:
         "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
       demoUrl: "task-management-demo",
-      githubUrl: "https://github.com/ESIC775/task-manager",
+      githubUrl: "https://github.com/ESIC775/portfolio-website",
       icon: Code,
       color: "from-green-500 to-teal-600",
       isDemo: true,
@@ -60,7 +60,7 @@ const Projets = ({ onProjectSelect }: ProjetsProps) => {
       image:
         "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=800",
       demoUrl: "https://demo-restaurant.example.com",
-      githubUrl: "https://github.com/ESIC775/restaurant-app",
+      githubUrl: "https://github.com/ESIC775/portfolio-website",
       icon: Smartphone,
       color: "from-orange-500 to-red-600",
       isDemo: false,
@@ -86,7 +86,7 @@ const Projets = ({ onProjectSelect }: ProjetsProps) => {
       image:
         "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=800",
       demoUrl: "https://demo-weather.example.com",
-      githubUrl: "https://github.com/ESIC775/weather-dashboard",
+      githubUrl: "https://github.com/ESIC775/portfolio-website",
       icon: Database,
       color: "from-cyan-500 to-blue-600",
       isDemo: false,
@@ -99,7 +99,7 @@ const Projets = ({ onProjectSelect }: ProjetsProps) => {
       image:
         "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800",
       demoUrl: "https://demo-social.example.com",
-      githubUrl: "https://github.com/ESIC775/social-dashboard",
+      githubUrl: "https://github.com/ESIC775/portfolio-website",
       icon: Globe,
       color: "from-pink-500 to-rose-600",
       isDemo: false,

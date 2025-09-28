@@ -59,7 +59,7 @@ const TaskManagementApp = ({ onBack }: TaskManagementAppProps) => {
           </a>
 
           <a
-            href="https://github.com/ESIC775/task-manager"
+            href="https://github.com/ESIC775/portfolio-website"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/20 text-white px-8 py-4 rounded-xl text-lg font-semibold transition-all duration-300 flex items-center justify-center space-x-3 hover:scale-105 shadow-lg"
@@ -226,7 +226,7 @@ const TaskManagementApp = ({ onBack }: TaskManagementAppProps) => {
             </a>
 
             <a
-              href="https://github.com/ESIC775/task-manager"
+              href="https://github.com/ESIC775/portfolio-website"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white/10 hover:bg-white/20 border border-white/20 text-white px-8 py-3 rounded-lg font-semibold transition-all duration-300 flex items-center justify-center space-x-2 hover:scale-105"
