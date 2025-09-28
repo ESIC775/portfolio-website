@@ -46,11 +46,11 @@ const Projets = ({ onProjectSelect }: ProjetsProps) => {
       technologies: ["React", "Firebase", "Tailwind CSS", "TypeScript"],
       image:
         "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
-      demoUrl: "https://demo-taskmanager.example.com",
+      demoUrl: "task-management-demo",
       githubUrl: "https://github.com/ESIC775/task-manager",
       icon: Code,
       color: "from-green-500 to-teal-600",
-      isDemo: false,
+      isDemo: true,
     },
     {
       title: "Restaurant Mobile App",
